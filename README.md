@@ -1,4 +1,4 @@
-# Advanced Parametric FIFO (SystemVerilog)
+# Parametric FIFO (SystemVerilog)
 
 An independent digital design and verification project focused on building a reusable FIFO component.
 
